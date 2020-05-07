@@ -29,7 +29,5 @@ class UserLoginViewModel : ViewModel() {
         _loginResult.value = UserLoginResult(errorType = 0)
     }
 
-    override fun onCleared() {
-        super.onCleared()
-    }
+
 }
