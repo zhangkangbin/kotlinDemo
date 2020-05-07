@@ -30,7 +30,7 @@ class UserLoginViewModel : ViewModel() {
     }
 
 
-    // test mail 22344
+
     override fun onCleared() {
         super.onCleared()
     }
